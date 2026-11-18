@@ -1,7 +1,7 @@
 {
   "game_version": "1",
   "addresses": {
-    "char_base": "0x03786CF8",
-    "mob_object_list": "0x03786980"
+    "char_base": "0x03786D70",
+    "mob_object_list": "0x03786A00"
   }
 }
